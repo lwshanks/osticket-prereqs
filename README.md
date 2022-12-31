@@ -43,6 +43,7 @@ Go to Azure portal. Create a Resource Group, now create a Windows 10 Virtual Mac
 </p>
 <p>
 Connect to your Virtual Machine with Remote Desktop. Find the public IP address, and rember the name and password you set up for the Virtual Machine.
+ 
 </p>
 <br />
 
@@ -50,8 +51,14 @@ Connect to your Virtual Machine with Remote Desktop. Find the public IP address,
 <img src="https://imgur.com/tKgsGDz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once you have logged into the Virtual Machine, go to the start menu and search "IIS" Install / Enable IIS in Windows.
-<img src="https://imgur.com/AVSjEXe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Once you have logged into the Virtual Machine, go to the start menu and search "IIS" Install / Enable IIS in Windows.  
+ Install Web Platform Installer.
+</p>
  
- Next we will find the osTicket page.
-<br />
+ <img src="https://imgur.com/AVSjEXe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
+
+ Download osTicket.  Install osTicket v1.15.8  
+ 
+
+ <br />
