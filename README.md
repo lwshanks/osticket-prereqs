@@ -33,7 +33,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://imgur.com/4onsF8D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to Azure portal. Create a Resource Group, now create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs, When you create the VM, allow it to create a new Virtual Network.  
+
 </p>
 <br />
 
@@ -41,7 +42,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://imgur.com/bsnBn19.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Connect to your Virtual Machine with Remote Desktop. Find the public IP address, and rember the name and password you set up for the Virtual Machine.
 </p>
 <br />
 
@@ -49,6 +50,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://imgur.com/tKgsGDz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Once you have logged into the Virtual Machine, go to the start menu and search "IIS" Install / Enable IIS in Windows.
+<img src="https://imgur.com/AVSjEXe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
+ Next we will find the osTicket page.
 <br />
